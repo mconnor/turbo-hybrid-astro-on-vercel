@@ -6,3 +6,7 @@ node_modules
 yarn.yaml
 .turbo
 .vercel
+
+# see https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
+.pnp.*
+.yarn/*

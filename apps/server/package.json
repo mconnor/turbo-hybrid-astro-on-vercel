@@ -18,10 +18,10 @@
     "playwright": "npx playwright test"
   },
   "dependencies": {
+    "@astrojs/image": "^0.13.0",
     "@astrojs/preact": "^2.0.0",
     "@astrojs/sitemap": "^1.0.0",
     "@astrojs/vercel": "^3.0.0",
-    "@astrojs/image": "^0.13.0",
     "@vercel/node": "^2.8.16",
     "astro": "^2.0.2",
     "astro-robots-txt": "^0.3.11",
@@ -32,11 +32,11 @@
     "vercel": "^28.14.0"
   },
   "devDependencies": {
-    "@vitest/coverage-c8": "^0.28.3",
-    "playwright": "^1.30.0",
     "@playwright/test": "^1.30.0",
+    "@vitest/coverage-c8": "^0.28.3",
     "eslint-config-custom": "*",
     "format": "*",
+    "playwright": "^1.30.0",
     "tsconfig": "*",
     "vitest": "^0.28.3"
   }
