@@ -16,18 +16,18 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Aron Homberg",
-    "url": "https://github.com/kyr0"
+    "name": "Mike Connor",
+    "url": "https://github.com/mconnor"
   },
   "workspaces": [
     "packages/*",
     "apps/*"
   ],
   "devDependencies": {
-    "dotenv-cli": "^7.0.0",
-    "prettier": "^2.8.3",
+    "dotenv-cli": "^7.2.1",
+    "prettier": "^2.8.8",
     "prettier-plugin-astro": "^0.8.0",
-    "sharp": "^0.31.3",
+    "sharp": "^0.32.1",
     "turbo": "latest"
   },
   "packageManager": "yarn@3.5.0"
